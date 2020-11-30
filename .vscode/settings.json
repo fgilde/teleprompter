@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d583f1cf-6a90-433f-aef7-28cb67b00f26/resourceGroups/Alex/providers/Microsoft.Web/sites/teleprompter",
+    "appService.deploySubpath": ""
+}
