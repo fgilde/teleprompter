@@ -122,7 +122,7 @@ export default function Teleprompter({
       )
       ?.scrollIntoView({
         behavior: 'smooth',
-        block: 'nearest',
+        block: 'center',
         inline: 'start'
       })
   }, [progress])

@@ -12,7 +12,7 @@ import {
   ButtonRight
 } from './styles'
 
-const INITIAL_TEXT = `Dies ist ein Beispiel und sie können den Text vorlesen und der text folgt dem was sie sagen. Beginnen sie einfach damit nachdem sie auf start geklickt haben diesen Text zu lesen und beobachten sie wie die Wörter hervorgehoben werden und wie ihnen der Text folgt.`
+const INITIAL_TEXT = `Dies ist ein Beispiel und sie können den Text vorlesen und der text folgt dem was sie sagen. Beginnen sie einfach damit nachdem sie auf start geklickt haben diesen Text zu lesen und beobachten sie wie die Wörter hervorgehoben werden und wie ihnen der Text folgt. Um einfach weiteren Inhalt zu haben ist hier noch etwas Text zum Vorlesen, allerdings fällt mir nichts sinnvolles ein außer ein Paar aneinander gereihter wörter`
 
 export default function App() {
   const [
